@@ -15,6 +15,15 @@ A short cryptic timeline with all the relevant info related to the "The Incident
 - **07:08 PM** - Generic account No. 3 Social Media was Seized and Terminated
 - **07:38 PM** - The RedKey Standard started being theorized
 
+### 22/12/2023
+- Operation Hearts of Iron was terminated due to lack of resources
+
+### 23/12/2023
+- Restored Mainframe's Critical Components
+
+### 27/12/2023
+- Mainframe fully restored
+
 ### 30/12/2023
 - **23:50 PM** - The RedKey Standard's was made public
 
