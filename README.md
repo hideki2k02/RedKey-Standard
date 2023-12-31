@@ -1,6 +1,6 @@
 # The RedKey Security Standard
 
-On October 31st 2023 at 1:08:25 AM UTC i've received a notification on my Phone: New Login at XXXX.
+On October 17th 2023 at 23:59 AM UTC i've received a notification on my Phone: New Login at XXXX.
 
 Due to stubborness, probably overconfidence and underestimating humans, i thought that nobody would ever try and hack me to get my passwords.txt file. And i was right, almost. 
 
@@ -8,7 +8,7 @@ Sure i'm not the President that has to watch for every step as i'm a walking tar
 
 That file had all my personal passwords, emails, banking details and some ASCII emojis. Thankfully nothing of value was lost as the Banking Apps required the device to be Authentificated, that did not mean that no damage was done but lets skip the details.
 
-A few weeks after the incident, on November 24, 2023 at 10:38:05 PM UTC i've created the RedKey Standard. The name is based on the [RedKey USB Drive](https://redkeyusb.com/)
+A short time after the incident, on November 24, 2023 at 10:38 PM UTC i've created the RedKey Standard. The name is based on the [RedKey USB Drive](https://redkeyusb.com/)
 
 ---
 ### What is it about?
